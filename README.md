@@ -43,7 +43,7 @@ The goal of this task is to use SQL to analyze data from a structured ecommerce 
 
 ## 📸 Screenshots
 
-Each query output screenshot is saved in the `/screenshots/` folder:
+Each query output screenshot is displayed:
 - `q1_output.png`
 - `q2_output.png`
 - ...
