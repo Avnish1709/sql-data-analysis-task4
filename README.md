@@ -71,6 +71,6 @@ This task helped in understanding and applying core SQL concepts in a real-world
 
 ## ✨ Author
 
--  Your Name: **Avnish Bedi
+-  Name: **Avnish Bedi
 -  B.Tech IT, 2nd Year  
 
