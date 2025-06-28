@@ -43,11 +43,30 @@ The goal of this task is to use SQL to analyze data from a structured ecommerce 
 
 ## 📸 Screenshots
 
-Each query output screenshot is displayed:
-- `q1_output.png`
-- `q2_output.png`
-- ...
-- `q7_output.png`
+
+Each query output screenshot is displayed below:
+
+### 🟩 Query 1: Orders with Amount > ₹2000
+![Query 1 Output](screenshots/q1_output.png)
+
+### 🟦 Query 2: Total Sales by Each Customer
+![Query 2 Output](screenshots/q2_output.png)
+
+### 🟨 Query 3: Customer Name with Order Details (JOIN)
+![Query 3 Output](screenshots/q3_output.png)
+
+### 🟧 Query 4: Average Order Value
+![Query 4 Output](screenshots/q4_output.png)
+
+### 🟥 Query 5: Customers Who Ordered > ₹3000 (Subquery)
+![Query 5 Output](screenshots/q5_output.png)
+
+### 🟫 Query 6: Sales Summary View
+![Query 6 Output](screenshots/q6_output.png)
+
+### 🟪 Query 7: Null Value Handling
+![Query 7 Output](screenshots/q7_output.png)
+
 
 ---
 
